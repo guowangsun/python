@@ -1,2 +1,3 @@
 #!/usr/bin/env python
-print 'Today is 2015-02-14,a love day'
+name = raw_input('Please enter your name : ')
+print 'Hello,', name
